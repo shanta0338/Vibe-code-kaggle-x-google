@@ -1,0 +1,6 @@
+{
+  "name": "PDF Summary & Audio Guide",
+  "description": "An interactive accessibility dashboard designed to parse, summarize, study, and speak PDF documents using Gemini OCR and voice synthesis models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
